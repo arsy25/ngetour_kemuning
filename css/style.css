@@ -4364,7 +4364,7 @@ body.visible-sidebar{
 }
 
 .main-footer .info-block ul li a{
-  color: #505050;
+  color: #ffffff;
 }
 
 .main-footer .info-block ul li a:hover{
@@ -5084,7 +5084,7 @@ body.visible-sidebar{
 }
 
 .footer-two .info-block ul li a{
-  color: #505050;
+  color: #ffffff;
 }
 
 .footer-two .info-block ul li a:hover{
@@ -7490,7 +7490,7 @@ body.visible-sidebar{
 .package-info-block .inner-box{
   position:relative;
   padding-left:90px;
-  color:#505050;
+  color:#ffffff;
   padding-top:5px;
   min-height:65px;
 }
