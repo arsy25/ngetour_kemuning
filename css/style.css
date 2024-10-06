@@ -2695,6 +2695,13 @@ body.visible-sidebar{
   color: #505050;
 }
 
+.textt  {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 5px;
+}
+
+
 .trek-block-one .ratings .rev a:hover{
   color: #1DC5CE;
 }
